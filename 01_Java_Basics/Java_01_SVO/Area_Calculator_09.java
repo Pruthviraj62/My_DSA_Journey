@@ -1,6 +1,6 @@
 // 9.Find the area of circle, triangle, rectangle (menu-driven).
 import java.util.Scanner;
-public class Area_Calculator {
+public class Area_Calculator_09 {
 
     static void circle_area(Scanner sc){
             System.out.print("Enter the radius of circle : ");
