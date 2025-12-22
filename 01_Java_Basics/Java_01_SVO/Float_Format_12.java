@@ -14,6 +14,6 @@ import java.util.Scanner;
         System.out.print("The result into formated form is : ");
         System.out.printf("%.2f",result);
 
-
+        sc.close();
     }
 }
